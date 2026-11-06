@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/green-magic-pest-control-local-green-magic-pest-co/sitemap.xml
